@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="button_corner_radius">8dp</dimen>
+    <dimen name="minimum_touch_target">48dp</dimen>
+</resources>
